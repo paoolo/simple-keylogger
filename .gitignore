@@ -1,0 +1,41 @@
+node_modules
+temp
+dll
+npm-debug.log
+build
+lib
+coverage
+.history
+last_commit_message
+commit
+changelog_email.html
+changelog_mm.md
+package-lock.json
+junit.xml
+stories/changelog.stories.mdx
+
+# Exclude IDE project folders
+.idea
+*.iml
+*.sublime-project
+*.sublime-workspace
+jsconfig.json
+system.js
+.vscode
+jest.ws.json
+.lh
+
+# OS files
+.DS_STORE
+lerna-debug.log
+package-lock.json
+yarn-error.log
+
+# Playwright
+playwright-report/*
+test-results/*
+test-results-latest/*
+test-results-prev-report/*
+report-test-results-prev/*
+test-results-latest-report/*
+report-test-results-latest/*
